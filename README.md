@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nho Chu Ruac</h1>
+<h1 align="center">Hi 👋, I'm Nho Chu Rua</h1>
 <h3 align="center">A passionate AI/ML engineer</h3>
 
 - 👀 I’m interested in Machine Learning & Artificial Intelligence <br>
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dam-nguyen-ngoc-42309b203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dam-nguyen-ngoc-42309b203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phạm-thế-hùng-9223b427a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dam-nguyen-ngoc-42309b203" height="30" width="40" /></a>
 </p>
 
 <!--
