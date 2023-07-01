@@ -32,8 +32,8 @@
 
 </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nndam&show_icons=true&locale=en&layout=compact" alt="nndam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=churuanh0&show_icons=true&locale=en&layout=compact" alt="churuanh0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=churuanh0&show_icons=true&locale=en" alt="nndam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=churuanh0&show_icons=true&locale=en" alt="churuanh0" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nndam&label=Profile%20views&color=0e75b6&style=flat" alt="nndam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=churuanh0&label=Profile%20views&color=0e75b6&style=flat" alt="churuanh0" /> </p>
