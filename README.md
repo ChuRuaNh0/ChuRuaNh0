@@ -1,6 +1,6 @@
 <!-- Make with: https://github.com/khalby786/REHeader -->
 <picture>
-    <img src="https://images7.alphacoders.com/956/956301.jpg" alt="Header Img">
+    <img src="https://images.alphacoders.com/736/736461.png" alt="Header Img">
 </picture>
 <h1 align="center">Hi 👋, I'm Nho Chu Rua</h1>
 <h3 align="center">A passionate AI/ML engineer</h3>
