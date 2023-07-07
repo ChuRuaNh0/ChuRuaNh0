@@ -84,21 +84,21 @@
     <tr>
       <td>
         <picture>
-          <img src="./metrics/plugin/anilist.svg" alt="Anime Watcher" width="100%" height="100%">
+          <img src="https://picfiles.alphacoders.com/476/476566.jpg" alt="Anime Childhood" width="100%" height="100%">
         </picture>
       </td>
       <td width="32%">
 <!--START_SECTION:update_image-->
 <picture>
-                    <img src='https://media.tenor.com/wr2bCL53YR8AAAAd/kubo-san-anime.gif' height=100% width=100% align=center alt=Image ALT />
+                    <img src='https://media.tenor.com/GeaULzLBX_0AAAAC/anime-girl-go-there.gif' height=100% width=100% align=center alt=Image ALT />
                   </picture>
                   <br>
                   <picture>
-                    <img src='https://media.tenor.com/p4LtTIVc5DwAAAAC/kubo-kubo-san.gif' height=100% width=100% align=center alt=Image ALT />
+                    <img src='https://i.pinimg.com/originals/06/ca/1d/06ca1d168c663f524e85d6ff0dab3fe2.gif' height=100% width=100% align=center alt=Image ALT />
                   </picture>
                   <br>
                   <picture>
-                    <img src='https://media.tenor.com/s64P0EeySN4AAAAd/anime-kubo.gif' height=100% width=100% align=center alt=Image ALT />
+                    <img src='https://i.pinimg.com/originals/02/ff/4c/02ff4cb1ee17dce7edeaf5ac2c8bed51.gif' height=100% width=100% align=center alt=Image ALT />
                   </picture>
 <!--END_SECTION:update_image-->
 </td>
