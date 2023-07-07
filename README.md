@@ -51,10 +51,10 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=churuanh0&show_icons=true&theme=gruvbox_light" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=churuanh0&show_icons=true&theme=holi" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=churuanh0&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=churuanh0&layout=compact&langs_count=8&card_width=320&theme=holi" />
 </a>
 </p>
 
