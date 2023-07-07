@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nho Chu Rua</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=70&lines=I'm+an+AI+Engineer.+Also+an+Anime+Enjoyer+%F0%9F%90%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=70&lines=I'm+an+AI+Engineer.+アニメ愛好家でもあります。+%F0%9F%90%B3" alt="Typing SVG" /></a>
 </p>
 
 <!-- <h3 align="center">A passionate AI/ML engineer</h3> -->
